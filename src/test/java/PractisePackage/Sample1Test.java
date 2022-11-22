@@ -6,16 +6,9 @@ import org.testng.annotations.Test;
 public class Sample1Test {
 
 	
-		   
-		@Test
-		public void script1()
-		{
-			System.out.println("------------");
-			System.out.println("........................");
-			System.out.println("scrip1");
-			System.out.println("as1");
-			System.out.print(false);
+		  
+		public static void main(String[] args) {
+			System.out.println("scrip1
 		}
-}
-
+	
 }
