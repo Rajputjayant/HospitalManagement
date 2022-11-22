@@ -12,6 +12,7 @@ public class Sample1Test {
 		{
 			System.out.println("scrip1");
 			System.out.println("as1");
+			System.out.print(false);
 		}
 }
 
