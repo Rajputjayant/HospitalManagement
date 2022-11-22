@@ -7,7 +7,7 @@ public class Sample1Test {
 
 	
 		   public static void main(String[] args) {
-			   System.out.println("scrip1");
+			   
 				System.out.println("as1");
 				
 		}
