@@ -1,5 +1,6 @@
 package PractisePackage;
 
+import org.apache.poi.poifs.crypt.temp.AesZipFileZipEntrySource;
 import org.testng.annotations.Test;
 
 public class Sample1Test {
@@ -10,12 +11,8 @@ public class Sample1Test {
 		public void script1()
 		{
 			System.out.println("scrip1");
+			System.out.println("as1");
 		}
-		@Test
-		public void script2()
-		{
-			System.out.println("scrip2");
-		}
-	}
+}
 
 
