@@ -9,6 +9,12 @@ public class practicesample {
 		System.out.println("apple258");
 		
 		
+		
+		
+		
+		
+		
+		
 			
 
 	}
