@@ -6,6 +6,8 @@ public class practicesample {
 		System.out.println("adadsd");
 		System.out.println("apple");
 		System.out.println("apple25");
+		System.out.println("apple258");
+		
 		
 			
 
